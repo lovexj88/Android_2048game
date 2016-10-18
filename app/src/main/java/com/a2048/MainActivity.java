@@ -19,6 +19,7 @@ import java.util.Vector;
 
 public class MainActivity extends Activity implements View.OnClickListener{
     private static final long VERSION = 1L;
+    private int tt = 1;
 
     private String[] mycolor ={"#EEE4DA","#ECECC8","#F4A460",
                     "#D2691E","#FF3030","#8B1A1A","#FFFF00"};
